@@ -2,3 +2,4 @@ pandas
 openpyxl
 ipykernel
 autogen-agentchat==0.2.37
+fastapi[standard]==0.115.4
