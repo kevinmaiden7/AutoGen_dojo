@@ -1,0 +1,1 @@
+{"usage_including_cached_inference": {"total_cost": 0, "tinyllama:chat": {"cost": 0, "prompt_tokens": 1435, "completion_tokens": 1208, "total_tokens": 2643}}, "usage_excluding_cached_inference": {"total_cost": 0, "tinyllama:chat": {"cost": 0, "prompt_tokens": 1435, "completion_tokens": 1208, "total_tokens": 2643}}}
